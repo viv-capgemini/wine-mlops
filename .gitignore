@@ -1,1 +1,3 @@
 data/wine_sample.csv
+.env.template 
+.dvc/config

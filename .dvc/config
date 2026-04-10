@@ -1,4 +1,0 @@
-[core]
-    remote = myremote
-['remote "myremote"']
-    url = s3://mlops-viv-dvc-bucket/dvc-storage-wine/
